@@ -1,5 +1,6 @@
-- Sintoma: Navegação indisponível
-- Questões: Wi-Fi conectado? VPN? Tudo ou um só site?
+Checklist:
+
+- Wi-Fi conectado? VPN? Tudo ou um só site?
 - Passo 1: ipconfig /all (ver DNS e gateway)
 - Passo 2: ping 8.8.8.8 (teste IP)
 - Passo 3: nslookup (teste DNS)

@@ -1,6 +1,6 @@
 **Runbook usado:** [Triagem - Sem Internet](/runbooks/network/triagem-sem-internet.md)
 
-- Usuário sem internet (navegação indisponível)
+- Sintoma: Usuário sem internet (navegação indisponível)
 - Nome do usuário: teste.lab
 - Impacto: Não acessa sistemas/web
 - Prioridade: P2
