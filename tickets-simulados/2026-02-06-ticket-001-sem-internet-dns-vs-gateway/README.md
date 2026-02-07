@@ -1,3 +1,5 @@
+**Runbook usado:** ../../runbooks/network/triagem-sem-internet.md
+
 - Usuário sem internet (navegação indisponível)
 - Nome do usuário: carol.lima
 - Impacto: Não acessa sistemas/web
