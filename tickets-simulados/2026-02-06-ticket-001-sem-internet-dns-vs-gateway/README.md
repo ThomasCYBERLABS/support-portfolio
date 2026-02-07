@@ -1,4 +1,4 @@
-**Runbook usado:** ../../runbooks/network/triagem-sem-internet.md
+**Runbook usado:** [Triagem - Sem Internet](/runbooks/network/triagem-sem-internet.md)
 
 - Usuário sem internet (navegação indisponível)
 - Nome do usuário: carol.lima
