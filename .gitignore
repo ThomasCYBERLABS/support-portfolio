@@ -1,0 +1,21 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs / temporários
+*.log
+*.tmp
+
+# VMs / ISOs (NÃO subir)
+*.iso
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# Dumps grandes
+*.pcap
+*.pcapng
