@@ -8,16 +8,16 @@
 # Evidências
 
 **Sem drive Z**
-![Drive](evidencias/no-have-drive-Z.png)
+![Drive](evidencias/1-no-have-drive-Z.png)
 
 **gpresult /r**
-![gpresult](evidencias/gpresult.png)
+![gpresult](evidencias/2-gpresult.png)
 
 **Drive volta**
-![Drive-back](evidencias/drive-back.png)
+![Drive-back](evidencias/3-drive-back.png)
 
 **gpresult /r(2)**
-![gpresult /r](evidencias/gpresult2.png)
+![gpresult /r](evidencias/4-gpresult2.png)
 
 **Event viewer**
-![GPO-logs](evidencias/eventviewer.png)
+![GPO-logs](evidencias/5-eventviewer.png)
