@@ -11,3 +11,14 @@
 - Validação: Ping IP ok, nslookup ok, navegação ok
 - Causa provável (simulada): Alteração indevida, VPN, configuração manual anterior
 - Prevenção: Padronizar DNS via GPO/DHCP
+
+## Evidências
+
+**ipconfig /all**
+![ipconfig](evidencias/01-ipconfig-all.png)
+
+**ping 8.8.8.8**
+![ping](evidencias/02-ping-8.8.8.8.png)
+
+**nslookup google.com**
+![nslookup](evidencias/03-nslookup-google.com.png)
