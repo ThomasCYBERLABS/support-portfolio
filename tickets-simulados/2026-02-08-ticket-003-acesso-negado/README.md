@@ -9,10 +9,10 @@
 # Evidências
 
 **Sem acesso**
-![RH](/tickets-simulados/2026-02-07-ticket-003-acesso-negado-share-ntfs/evidencias/01-inauthorized-user-teste.labRH.png)
+![RH](/tickets-simulados/2026-02-08-ticket-003-acesso-negado/evidencias/01-inauthorized-user-teste.labRH.png)
 
 **Verificando Share/AD/NTFS**
-![Verify](/tickets-simulados/2026-02-07-ticket-003-acesso-negado-share-ntfs/evidencias/02-verify-share-ad-ntfs-.png)
+![Verify](/tickets-simulados/2026-02-08-ticket-003-acesso-negado/evidencias/02-verify-share-ad-ntfs-.png)
 
 
 
